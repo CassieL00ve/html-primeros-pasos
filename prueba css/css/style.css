@@ -1,0 +1,9 @@
+body{
+	height: 600px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+	color: #fff;
+}
+
+h1{
+	color: #4a4a4a;
+}
